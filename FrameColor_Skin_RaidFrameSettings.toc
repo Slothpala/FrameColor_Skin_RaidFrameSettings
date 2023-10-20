@@ -1,0 +1,8 @@
+## Interface: 100107
+## Version: 1
+## Title: FrameColor_Skin_RaidFrameSettings
+## Author: Slothpala
+## Dependencies: RaidFrameSettings, FrameColor
+
+FrameColor_Skin_RaidFrameSettings.lua
+
