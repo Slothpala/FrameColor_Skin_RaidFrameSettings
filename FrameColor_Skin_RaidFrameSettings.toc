@@ -3,6 +3,7 @@
 ## Title: FrameColor_Skin_RaidFrameSettings
 ## Author: Slothpala
 ## Dependencies: RaidFrameSettings, FrameColor
+## X-Curse-Project-ID: 926152
 
 FrameColor_Skin_RaidFrameSettings.lua
 
