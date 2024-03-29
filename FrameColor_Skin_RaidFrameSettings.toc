@@ -1,5 +1,5 @@
-## Interface: 100107
-## Version: @project-version@
+## Interface: 100206
+## Version: 100
 ## Title: FrameColor_Skin_RaidFrameSettings
 ## Author: Slothpala
 ## Dependencies: RaidFrameSettings, FrameColor
